@@ -1,0 +1,3 @@
+Essa pasta é destinada as imagens e outros recursos do mod quando necessario
+Normalmente contem as imagens dos objetos adicionados via Content Patcher
+Quando nao for necessario pode ser apagada sem nenhum prejuizo ao mod

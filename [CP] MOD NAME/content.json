@@ -1,0 +1,75 @@
+//Content Patcher pode ser usado de diversas formas, mas o mais comum é para modificar dados do jogo:
+//Como receitas de crafting, buffs de comidas, adição de novo conteudo etc.
+//Exemplo de ConfigSchema nao testado mas pronto para uso e com suporte a traducoes
+//Usar When quando for adicionar condicoes de ativacao de um item, por exemplo: 
+//"When": "EnableFeature == true" para ativar o item apenas quando a feature estiver habilitada
+{
+    "Format": "2.8.0",
+   
+    "ConfigSchema": {
+        "EnableFeature": {
+        "AllowValues": "true, false",
+        "Default": "true",
+        "DisplayName": "{{i18n:config.EnableFeature.name}}",
+        "Description": "{{i18n:config.EnableFeature.desc}}"
+            }
+        },
+
+  "Changes": [
+    //Exemplo com o [CP] Cheating Snacks ja publicado e funcionando na NexusMods
+    {
+      "Action": "EditData",
+      "Target": "Data/Objects",
+      "Fields": {
+        //Fiels Snack
+		"403":
+		{
+          "Buffs": [
+		  {
+			"Duration": -2,
+			"CustomAttributes": {
+				"Luck": 10,
+				"Farming": 10,
+				"Fishing": 10,
+				"Foraging": 10,
+				"Speed": 3,
+				"MaxStamina": 100
+					}
+				}
+			]
+		   
+		},
+	  //Joja Cola
+	   "167": {
+          "Buffs": [
+		  {
+			"Duration": -2,
+			"CustomAttributes": {	
+            "Attack": 10,
+			"Defense": 10,
+			"Speed": 3,
+			"Immunity":10,
+			"Luck": 10,
+			"Combat": 10,
+			"Mining": 10,
+			"MaxStamina": 100,
+			"MagneticRadius": 250
+					}
+				}
+			]
+		}
+	}
+    },
+    //Exemplo de como modificar receitas de crafting
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+            "Wood Fence": "388 2/Field/322 10/false/default/",
+            "Stone Fence": "390 2/Field/323 10/false/Farming 2/",
+            "Iron Fence": "335 1/Field/324 10/false/Farming 4/",
+            "Hardwood Fence": "709 1/Field/298 10/false/Farming 6/"
+               }
+    }
+        ]
+    }
