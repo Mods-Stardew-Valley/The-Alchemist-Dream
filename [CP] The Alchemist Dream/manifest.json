@@ -1,12 +1,11 @@
-    //Trocar MODNAME
     //Remover comentario do UpdateKeys e trocar pelo numero correto no nexus
 {
-   "Name": "[CP] MODNAME",
+   "Name": "[CP] The Alchemist's Dream - Equivalent Exchange",
    "Author": "LoganDoidao",
    "Version": "1.0.0",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "ESCREVER UMA BREVE DESCRICAO",
-   "UniqueID": "LoganDoidao.MODNAME",
+   "Description": "The dream of everyone who dabbles in alchemy: equivalent exchange.",
+   "UniqueID": "LoganDoidao.TheAlchemistsDream",
    //"UpdateKeys": [ "Nexus:?????" ], 
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
