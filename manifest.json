@@ -5,7 +5,7 @@
    "MinimumApiVersion": "4.1.0", 
    "Description": "The dream of everyone who dabbles in alchemy: equivalent exchange.",
    "UniqueID": "LoganDoidao.TheAlchemistsDream",
-   //"UpdateKeys": [ "Nexus:?????" ], 
+   "UpdateKeys": [ "Nexus:?????" ], 
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
        }
