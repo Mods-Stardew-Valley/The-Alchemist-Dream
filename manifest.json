@@ -1,8 +1,8 @@
     //Remover comentario do UpdateKeys e trocar pelo numero correto no nexus
 {
-   "Name": "[CP] The Alchemist's Dream - Equivalent Exchange",
+   "Name": "[CP] The Alchemist's Dream",
    "Author": "LoganDoidao",
-   "Version": "1.0.0",
+   "Version": "0.1.0",
    "MinimumApiVersion": "4.1.0", 
    "Description": "The dream of everyone who dabbles in alchemy: equivalent exchange.",
    "UniqueID": "LoganDoidao.TheAlchemistsDream",
