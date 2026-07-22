@@ -26,7 +26,9 @@ Simply find the pages of the alchemist's lost grimoire and master the secrets of
 
 
 # Recipes
-
+ - Pedra para Carvão "390 99/Field/382/false/default/"
+ - Carvão para Diamante "382 99/Field/72/false/default/"
+ - Fragmento Prismatico "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
 
 # Changelog
 
