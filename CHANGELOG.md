@@ -3,18 +3,36 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## Unreleased
+## v0.1.0 - 2026-07-22
 
+
+
+### Outras alterações
+
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
 
 
 ### ✨ Novidades
 
 
+- Expand crafting recipes with material progression
+
 - Update crafting recipes to ore materials
+
+
+### 🏗 Build
+
+
+- Bump version to 0.1.0
 
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
+
+- Update README with project details and recipes
 
 - Add mineral breaking recipes and format recipes
 
