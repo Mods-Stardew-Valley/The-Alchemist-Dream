@@ -21,11 +21,15 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-            "Wood Fence": "388 2/Field/322 10/false/default/",
-            "Stone Fence": "390 2/Field/323 10/false/Farming 2/",
-            "Iron Fence": "335 1/Field/324 10/false/Farming 4/",
-            "Hardwood Fence": "709 1/Field/298 10/false/Farming 6/"
-               }
+        "Carvão": "390 99/Field/382/false/default/",
+        "Cobre": "334 1/Field/378 6/false/default/",
+        "Ferro": "335 1/Field/380 6/false/default/",
+        "Ouro": "336 1/Field/384 6/false/default/",
+        "Iridio": "337 1/Field/386 6/false/default/",
+        "Radioativo": "910 1/Field/909 6/false/default/",
+        "Diamante": "382 99/Field/72/false/default/",
+        "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+        }
     }
         ]
     }
