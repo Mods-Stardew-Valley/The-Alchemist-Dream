@@ -26,9 +26,29 @@ Simply find the pages of the alchemist's lost grimoire and master the secrets of
 
 
 # Recipes
- - Pedra para Carvão "390 99/Field/382/false/default/"
- - Carvão para Diamante "382 99/Field/72/false/default/"
- - Fragmento Prismatico "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+ - Pedra para Carvão 
+    "Carvão": "390 99/Field/382/false/default/",
+ 
+ - Carvão para Diamante 
+    "Diamante": "382 99/Field/72/false/default/",
+ 
+ - Fragmento Prismatico 
+    "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+ 
+ - Quebrar Cobre
+    "Cobre": "334 1/Field/378 6/false/default/",
+ 
+ - Quebrar Ferro
+    "Ferro": "335 1/Field/380 6/false/default/",
+ 
+ - Quebrar Ouro
+    "Ouro": "336 1/Field/384 6/false/default/",
+ 
+ - Quebrar Iridio
+    "Iridio": "337 1/Field/386 6/false/default/",
+ 
+ - Quebrar Radioativo
+    "Radioativo": "910 1/Field/909 6/false/default/",
 
 # Changelog
 
