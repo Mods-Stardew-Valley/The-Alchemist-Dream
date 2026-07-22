@@ -1,10 +1,4 @@
-# Content-Patcher-TEMPLATE
-Template padrão para os mods que usam o Content Patcher 
-Para facilitar o trabalho com os repositorios e padronizar os mods da serie
-Esse template contempla todos os arquivos necessarios para o mod funcionar
-Basta apenas modificar os nomes e demais itens conforme necessario
-Remova todas as pastas e arquivos que não forem necessarios quando for lancar a versao inicial do mod no Nexus
-Adicionar requerimento opcional do "Generic Mod Config Menu" na descricao do site ao adicionar o mod para download
+# The Alchemist's Dream - Equivalent Exchange
 
 
 # Descrição
@@ -24,31 +18,87 @@ Powers never before imagined are now available to you!
 
 Simply find the pages of the alchemist's lost grimoire and master the secrets of alchemy.
 
+These are 20 lost pages from a powerful grimoire; help the wizard of the valley complete his alchemy research.
 
-# Recipes
+Perhaps, with the complete grimoire, he will give you a gift on par with the Philosopher's Stone.
+
+
+# Recipes 21 no total
+
  - Pedra para Carvão 
-    "Carvão": "390 99/Field/382/false/default/",
+    "Carvão": "390 9/Field/382/false/default/",
  
- - Carvão para Diamante 
+    # Dominar o Cobre
+
+     - Quebrar Cobre
+        "Quebrar Cobre": "334 1/Field/378 6/false/default/",
+
+     - DesTransmutar
+        "DesTrans (Fe)": "335 1/Field/334/false/default/",
+ 
+     - Criar Cobre
+        "Criar Cobre": "378 10/Field/334/false/default/",
+
+     - Transmutar
+        "Trans (Fe)": "334 2/Field/335/false/default/",
+
+    # Dominar o Ferro
+
+     - Quebrar Ferro
+        "Quebrar Ferro": "335 1/Field/380 6/false/default/",
+
+     - DesTransmutar
+        "DesTrans (Au)": "336 1/Field/335/false/default/",
+
+     - Criar Ferro
+        "Criar Ferro": "380 10/Field/335/false/default/",
+
+     - Transmutar
+        "Trans (Au)": "335 2/Field/336/false/default/",
+
+    # Dominar o Ouro
+
+     - Quebrar Ouro
+        "Quebrar Ouro": "336 1/Field/384 6/false/default/",
+
+     - DesTransmutar
+        "DesTrans (Ir)": "337 1/Field/336/false/default/",
+
+     - Criar Ouro
+        "Criar Ouro": "384 10/Field/336/false/default/",
+
+     - Transmutar
+        "Trans (Ir)": "336 2/Field/337/false/default/",
+
+
+    # Dominar o Iridio
+
+     - Quebrar Iridio
+        "Quebrar Iridio": "337 1/Field/386 6/false/default/",
+
+     - DesTransmutar
+        "DesTrans (Rad)": "910 1/Field/337/false/default/",
+
+     - Criar Iridio
+        "Criar Iridio": "386 10/Field/337/false/default/",
+
+     - Transmutar
+        "Trans (Rad)": "337 2/Field/910/false/default/",
+
+
+    # Dominar o Radioativo
+
+     - Quebrar Radioativo
+        "Quebrar Radioativo": "910 1/Field/909 6/false/default/",
+
+     - Criar Radioativo
+        "Criar Radioativo": "909 10/Field/910/false/default/",
+
+- Carvão para Diamante 
     "Diamante": "382 99/Field/72/false/default/",
  
- - Fragmento Prismatico 
+- Fragmento Prismatico 
     "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
- 
- - Quebrar Cobre
-    "Cobre": "334 1/Field/378 6/false/default/",
- 
- - Quebrar Ferro
-    "Ferro": "335 1/Field/380 6/false/default/",
- 
- - Quebrar Ouro
-    "Ouro": "336 1/Field/384 6/false/default/",
- 
- - Quebrar Iridio
-    "Iridio": "337 1/Field/386 6/false/default/",
- 
- - Quebrar Radioativo
-    "Radioativo": "910 1/Field/909 6/false/default/",
 
 # Changelog
 
@@ -71,11 +121,11 @@ Simply find the pages of the alchemist's lost grimoire and master the secrets of
 *Balanceamento.
 *Traduções.
 
--V0.2.0 — Mail Framework
+-V0.2.0 — Mail com Contetn Patcher
 
 *Alterar todas as receitas para aprendidas por carta.
 *Criar cartas de teste.
-*Aprender a usar todas as condições de envio do Mail Framework. O modelo suporta diversos gatilhos, como datas, eventos, cartas recebidas, receitas conhecidas e condições do Expanded Preconditions.
+*Aprender a usar todas as condições de envio do Content Patcher. O modelo suporta diversos gatilhos, como datas, eventos, cartas recebidas, receitas conhecidas e condições do Expanded Preconditions.
 *Validar que o aprendizado das receitas funciona corretamente.
 
 -V0.3.0 — Páginas Perdidas
@@ -96,3 +146,11 @@ Simply find the pages of the alchemist's lost grimoire and master the secrets of
 *Receber a carta.
 *Aprender a receita.
 *Repetir até completar o grimório.
+*Adicionar receita do fragmento prismatico apenas ao completar a missao das 20 carts perdidas com uma carta do mago agradecendo pela ajuda e mandando a receita da pedra filosofal como uma piada para a receita real do fragmento prismatico que é o que mais se aproxima disso no jogo
+
+-V1.0.0
+
+*Expandir para todas as páginas.
+*Adicionar todas as receitas.
+*Completar a história.
+*Balanceamento final.
