@@ -6,61 +6,17 @@
 {
     "Format": "2.8.0",
    
-    "ConfigSchema": {
-        "EnableFeature": {
-        "AllowValues": "true, false",
-        "Default": "true",
-        "DisplayName": "{{i18n:config.EnableFeature.name}}",
-        "Description": "{{i18n:config.EnableFeature.desc}}"
-            }
-        },
+    //"ConfigSchema": {
+        //"EnableFeature": {
+        //"AllowValues": "true, false",
+        //"Default": "true",
+        //"DisplayName": "{{i18n:config.EnableFeature.name}}",
+        //"Description": "{{i18n:config.EnableFeature.desc}}"
+        //    }
+        //},
 
   "Changes": [
-    //Exemplo com o [CP] Cheating Snacks ja publicado e funcionando na NexusMods
-    {
-      "Action": "EditData",
-      "Target": "Data/Objects",
-      "Fields": {
-        //Fiels Snack
-		"403":
-		{
-          "Buffs": [
-		  {
-			"Duration": -2,
-			"CustomAttributes": {
-				"Luck": 10,
-				"Farming": 10,
-				"Fishing": 10,
-				"Foraging": 10,
-				"Speed": 3,
-				"MaxStamina": 100
-					}
-				}
-			]
-		   
-		},
-	  //Joja Cola
-	   "167": {
-          "Buffs": [
-		  {
-			"Duration": -2,
-			"CustomAttributes": {	
-            "Attack": 10,
-			"Defense": 10,
-			"Speed": 3,
-			"Immunity":10,
-			"Luck": 10,
-			"Combat": 10,
-			"Mining": 10,
-			"MaxStamina": 100,
-			"MagneticRadius": 250
-					}
-				}
-			]
-		}
-	}
-    },
-    //Exemplo de como modificar receitas de crafting
+    
     {
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
