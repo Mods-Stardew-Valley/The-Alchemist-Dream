@@ -3,6 +3,24 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## Unreleased
+
+
+
+### ✨ Novidades
+
+
+- Update crafting recipes to ore materials
+
+
+### 📚 Documentação
+
+
+- Add mineral breaking recipes and format recipes
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v0.0.0 - 2026-07-22
 
 
