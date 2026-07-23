@@ -1,6 +1,5 @@
 # The Alchemist's Dream - Equivalent Exchange
 
-
 # Descrição
 
 The dream of everyone who dabbles in alchemy: equivalent exchange.
@@ -8,97 +7,105 @@ Modify the properties of elements without any loss.
 Freely transform one material into another.
 Create matter from dust.
 
-Manipulate everything at will.
+With the alchemist's grimoire and its secrets, you can manipulate everything to your will!
 
 The alchemist's dream is now in your hands!
 
-A collection of recipes ranging from coal to diamond.
+A collection of recipes ranging from converting stones into coal to creating diamonds.
 Convert, multiply, and transform!
-Powers never before imagined are now available to you!
+Powers never seen before, now in your hands!
 
 Simply find the pages of the alchemist's lost grimoire and master the secrets of alchemy.
-
-These are 20 lost pages from a powerful grimoire; help the wizard of the valley complete his alchemy research.
-
-Perhaps, with the complete grimoire, he will give you a gift on par with the Philosopher's Stone.
+There are 20 lost pages, help the wizard of the valley complete his alchemy research.
 
 
-# Recipes 21 no total
 
- - Pedra para Carvão 
-    "Carvão": "390 9/Field/382/false/default/",
- 
-    # Dominar o Cobre
-
-     - Quebrar Cobre
-        "Quebrar Cobre": "334 1/Field/378 6/false/default/",
-
-     - DesTransmutar
-        "DesTrans (Fe)": "335 1/Field/334/false/default/",
- 
-     - Criar Cobre
-        "Criar Cobre": "378 10/Field/334/false/default/",
-
-     - Transmutar
-        "Trans (Fe)": "334 2/Field/335/false/default/",
-
-    # Dominar o Ferro
-
-     - Quebrar Ferro
-        "Quebrar Ferro": "335 1/Field/380 6/false/default/",
-
-     - DesTransmutar
-        "DesTrans (Au)": "336 1/Field/335/false/default/",
-
-     - Criar Ferro
-        "Criar Ferro": "380 10/Field/335/false/default/",
-
-     - Transmutar
-        "Trans (Au)": "335 2/Field/336/false/default/",
-
-    # Dominar o Ouro
-
-     - Quebrar Ouro
-        "Quebrar Ouro": "336 1/Field/384 6/false/default/",
-
-     - DesTransmutar
-        "DesTrans (Ir)": "337 1/Field/336/false/default/",
-
-     - Criar Ouro
-        "Criar Ouro": "384 10/Field/336/false/default/",
-
-     - Transmutar
-        "Trans (Ir)": "336 2/Field/337/false/default/",
+With the complete grimoire, you will master copper, iron, gold, iridium, and radioactive material.
+And perhaps, the Wizard gives you a gift on par with the Philosopher's Stone.
 
 
-    # Dominar o Iridio
+# Recipes 
 
-     - Quebrar Iridio
-        "Quebrar Iridio": "337 1/Field/386 6/false/default/",
+[spoiler]
+- Stone to Coal - Reward for finding the first page
+- Break Copper - Rewards fot the second page
+- DesTransmute Iron - The third page
+- Forge Copper - Fourth page
+- Transmute Iron - Fifth
+- Break Iron 
+- DesTransmute Gold
+- Forge Iron
+- Transmute Gold
+- Break Ouro
+- DesTransmute Iridium
+- Forge Ouro
+- Transmute Iridium
+- Break Iridium
+- DesTransmute Radioactive
+- Forge Iridium
+- Transmute Radioactive
+- Break Radioactive
+- Forge Radioactive
+- Coal to Diamond
+- Prismatic - Especial rewards for completing the Grimoire
+[/spoiler]
 
-     - DesTransmutar
-        "DesTrans (Rad)": "910 1/Field/337/false/default/",
+See the images for more details.
 
-     - Criar Iridio
-        "Criar Iridio": "386 10/Field/337/false/default/",
+# This is an ongoing project, and its development will proceed according to the plan below:
 
-     - Transmutar
-        "Trans (Rad)": "337 2/Field/910/false/default/",
+   # Released
+
+      v0.1.0 [CHEATING EDITION]
+         *All recipes available without restriction, for testing purposes only.
+
+   # Unreleased
+      * Test recipe learning using the Content Patcher mail system.
+      * Create the "Lost Page" item so it can be found
+      * Add it to the game using Content Patcher
+      * Give artifact spots a chance to drop the Lost Page
+      * Set up a trigger for when the lost page is found to create a flag that sends the letter by mail.
+      * Create an in-game quest assigned by the wizard to find the lost pages.
+      * Create the entire proposed storyline and combine all the ideas into a single mod.
+
+Many other steps could be part of the process, but that’s the main idea!
+Check the project's progress in the changelog session.
 
 
-    # Dominar o Radioativo
 
-     - Quebrar Radioativo
-        "Quebrar Radioativo": "910 1/Field/909 6/false/default/",
+Any suggestions or help with this project are welcome!
+I’m always keeping an eye on the comments.
 
-     - Criar Radioativo
-        "Criar Radioativo": "909 10/Field/910/false/default/",
+All stable test versions will be available for download.
 
-- Carvão para Diamante 
-    "Diamante": "382 99/Field/72/false/default/",
- 
-- Fragmento Prismatico 
-    "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+Download at your own risk, most of them will be CHEATING!
+
+# Receipes Code 
+
+//trocar default para null assim as receitas vao precisar ser aprendidas por meio das suas receitas proprias 
+   {
+   "Stone to Coal": "390 9/Field/382/false/null/",
+   "Break Copper": "334 1/Field/378 6/false/null/",
+   "DesTrans (Fe)": "335 1/Field/334/false/default/",
+   "Forge Copper": "378 10/Field/334/false/default/",
+   "Trans (Fe)": "334 2/Field/335/false/default/",
+   "Break Iron": "335 1/Field/380 6/false/default/",
+   "DesTrans (Au)": "336 1/Field/335/false/default/",
+   "Forge Iron": "380 10/Field/335/false/default/",
+   "Trans (Au)": "335 2/Field/336/false/default/",
+   "Break Ouro": "336 1/Field/384 6/false/default/",
+   "DesTrans (Ir)": "337 1/Field/336/false/default/",
+   "Forge Ouro": "384 10/Field/336/false/default/",
+   "Trans (Ir)": "336 2/Field/337/false/default/",
+   "Break Iridium": "337 1/Field/386 6/false/default/",
+   "DesTrans (Rad)": "910 1/Field/337/false/default/",
+   "Forge Iridium": "386 10/Field/337/false/default/",
+   "Trans (Rad)": "337 2/Field/910/false/default/",
+   "Break Radioactive": "910 1/Field/909 6/false/default/",
+   "Forge Radioactive": "909 10/Field/910/false/default/",
+   "Coal to Diamante": "382 99/Field/72/false/default/",   
+   "Prismatic": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+   }
 
 # Changelog
 
@@ -110,7 +117,7 @@ Perhaps, with the complete grimoire, he will give you a gift on par with the Phi
 
 -V0.1.0 — Recipes Preview
 
-*Criar todas as receitas.
+*Forge todas as receitas.
 *Testar todas.
 *Tirar screenshots.
 *Lançar como versão de testes (tag Cheating).
@@ -121,16 +128,16 @@ Perhaps, with the complete grimoire, he will give you a gift on par with the Phi
 *Balanceamento.
 *Traduções.
 
--V0.2.0 — Mail com Contetn Patcher
+-V0.2.0 — Mail com Content Patcher
 
 *Alterar todas as receitas para aprendidas por carta.
-*Criar cartas de teste.
+*Fazer cartas de teste.
 *Aprender a usar todas as condições de envio do Content Patcher. O modelo suporta diversos gatilhos, como datas, eventos, cartas recebidas, receitas conhecidas e condições do Expanded Preconditions.
 *Validar que o aprendizado das receitas funciona corretamente.
 
 -V0.3.0 — Páginas Perdidas
 
-*Criar os objetos das páginas.
+*Fazer os objetos das páginas.
 *Adicionar aos pontos de artefato.
 *Criar as flags de descoberta.
 *Fazer cada página disparar sua respectiva carta.
@@ -146,7 +153,7 @@ Perhaps, with the complete grimoire, he will give you a gift on par with the Phi
 *Receber a carta.
 *Aprender a receita.
 *Repetir até completar o grimório.
-*Adicionar receita do fragmento prismatico apenas ao completar a missao das 20 carts perdidas com uma carta do mago agradecendo pela ajuda e mandando a receita da pedra filosofal como uma piada para a receita real do fragmento prismatico que é o que mais se aproxima disso no jogo
+*Adicionar receita do fragmento prismatico apenas ao completar a missao das 20 carts perdidas com uma carta do mago agradecendo pela ajuda e mandando a receita da Stone filosofal como uma piada para a receita real do fragmento prismatico que é o que mais se aproxima disso no jogo
 
 -V1.0.0
 
