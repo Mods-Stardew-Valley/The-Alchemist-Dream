@@ -3,6 +3,18 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## Unreleased
+
+
+
+### 📚 Documentação
+
+
+- Reorganize README and add development roadmap
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v0.1.0 - 2026-07-22
 
 
