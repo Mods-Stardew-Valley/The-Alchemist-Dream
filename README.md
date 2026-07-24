@@ -73,7 +73,7 @@ See the images for more details.
 Many other steps could be part of the process, but that’s the main idea!
 Check the project's progress in the changelog session.
 
-
+[line]
 
 Any suggestions or help with this project are welcome!
 I’m always keeping an eye on the comments.
@@ -81,6 +81,23 @@ I’m always keeping an eye on the comments.
 All stable test versions will be available for download.
 
 Download at your own risk, most of them will be CHEATING!
+
+[line]
+
+💬 Feel free to leave comments, suggestions, or emotional support.
+Don't forget to ⭐ Endorse ⭐ the mods you like! It costs nothing, takes two seconds, but it significantly boosts visibility. And it makes a modder very happy.
+Plus, it motivates me to keep updating and creating more content. 👍🏼
+Seriously. Do it. 😄
+
+💖 Want to do more?
+Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][/url][/b] ☕
+
+📦 For more of my mods:
+[url=https://www.nexusmods.com/profile/LoganDoidao989][b][size=4]Click Here![/size][/b][/url]
+
+[line]
+
+
 
 # Receipes Code 
 
