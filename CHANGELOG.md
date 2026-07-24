@@ -3,6 +3,28 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
+## Unreleased
+
+
+
+### Outras alterações
+
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
+
+
+### 🐛 Correções
+
+
+- Update recipe default flags and README
+
+
+### 📚 Documentação
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 ## v0.1.1 - 2026-07-24
 
 
