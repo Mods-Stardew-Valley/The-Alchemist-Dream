@@ -61,6 +61,13 @@ See the images for more details.
       v0.1.0 [CHEATING EDITION]
          *All recipes available without restriction, for testing purposes only.
 
+      v0.1.1
+         *Added two new recipes for Pearl and Galaxy Soul.
+         *Added a new ingredient to Prismatic Shard.
+         *Changed the order of the last few recipes to accommodate the new ones.
+      v0.1.2
+         *Added update key.
+
    # Unreleased
       * Test recipe learning using the Content Patcher mail system.
       * Create the "Lost Page" item so it can be found
