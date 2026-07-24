@@ -51,7 +51,9 @@
         "Criar Radioativo": "909 10/Field/910/false/default/", //Pagina 19
 
         "Diamante": "382 99/Field/72/false/default/", //Pagina 20
-        "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/" //Ultima Pagina 21
+        "Pearl": "372 20 393 10 80 5 382 3/Field/797/false/default/",  //Pagina 21
+        "Fragmento Prismatico": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/", //Ultima Pagina 22
+        "Galaxy Soul": "74 1 910 5 72 5/Field/896/false/default/" //Ultima Pagina 23
         }
     }
         ]
