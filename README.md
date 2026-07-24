@@ -24,7 +24,7 @@ With the complete grimoire, you will master copper, iron, gold, iridium, and rad
 And perhaps, the Wizard gives you a gift on par with the Philosopher's Stone.
 
 
-# Recipes 
+# Recipes 23 in Total (So far, for now)
 
 [spoiler]
 - Stone to Coal - Reward for finding the first page
@@ -65,12 +65,12 @@ See the images for more details.
 
    # Unreleased
 
-      v0.1.1
-         *Added two new recipes for Pearl and Galaxy Soul.
-         *Added a new ingredient to Prismatic Shard.
-         *Changed the order of the last few recipes to accommodate the new ones.
-      v0.1.2
-         *Added update key.
+      v0.1.1
+         *Modified the recipes that worked to avoid cluttering the interface and to test the new learning mode.
+         *Added two new recipes for Pearl and Galaxy Soul.
+         *Added a new ingredient to Prismatic Shard.
+         *Changed the order of the last few recipes to accommodate the new ones.
+         *Added update key. 
 
       * Test recipe learning using the Content Patcher mail system.
       * Create the "Lost Page" item so it can be found
@@ -144,17 +144,12 @@ Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][
     feat: todas as receitas abertas para teste
 
 - v0.1.1
-    feat: adicionados receitas para Pearl e Galaxy Soul
+    fix: modificadas as receitas anteriores para exigir outro meio de aprendizado
+    feat: adicionados receitas para Pearl e Galaxy Soul por padrão para teste
     fix: modificada receita do fragmento prismatico
+    feat: Added Updatekey
 
 # Roadmap
-
--V0.1.0 — Recipes Preview
-
-*Forge todas as receitas.
-*Testar todas.
-*Tirar screenshots.
-*Lançar como versão de testes (tag Cheating).
 
 -V0.1.1
 
