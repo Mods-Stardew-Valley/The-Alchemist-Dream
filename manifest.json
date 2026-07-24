@@ -5,7 +5,7 @@
    "MinimumApiVersion": "4.1.0", 
    "Description": "The dream of everyone who dabbles in alchemy: equivalent exchange.",
    "UniqueID": "LoganDoidao.TheAlchemistsDream",
-   "UpdateKeys": [ "Nexus:49644" ], 
+   "UpdateKeys": [ "Nexus:49644", "GitHub:Mods-Stardew-Valley/The-Alchemist-Dream" ], 
    "ContentPackFor": {
        "UniqueID": "Pathoschild.ContentPatcher"
        }
