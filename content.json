@@ -22,37 +22,37 @@
       "Target": "Data/CraftingRecipes",
       "Entries": {
         "Carvão": "390 9/Field/382/false/default/", //Pagina 1
-        //Dominar o Cobre
-        "Quebrar Cobre": "334 1/Field/378 6/false/default/", //Pagina 2
+        //Dominar o Copper
+        "Break Copper": "334 1/Field/378 6/false/default/", //Pagina 2
         "DesTrans (Fe)": "335 1/Field/334/false/default/", //Pagina 3
-        "Criar Cobre": "378 10/Field/334/false/default/", //Pagina 4
+        "Forge Copper": "378 10/Field/334/false/default/", //Pagina 4
         "Trans (Fe)": "334 2/Field/335/false/default/", //Pagina 5
 
-        //Dominar o Ferro
-        "Quebrar Ferro": "335 1/Field/380 6/false/default/", //Pagina 6
+        //Dominar o Iron
+        "Break Iron": "335 1/Field/380 6/false/default/", //Pagina 6
         "DesTrans (Au)": "336 1/Field/335/false/default/", //Pagina 7
-        "Criar Ferro": "380 10/Field/335/false/default/", //Pagina 8
+        "Forge Iron": "380 10/Field/335/false/default/", //Pagina 8
         "Trans (Au)": "335 2/Field/336/false/default/", //Pagina 9
 
         //Dominar o Ouro
-        "Quebrar Ouro": "336 1/Field/384 6/false/default/", //Pagina 10
+        "Break Ouro": "336 1/Field/384 6/false/default/", //Pagina 10
         "DesTrans (Ir)": "337 1/Field/336/false/default/", //Pagina 11
-        "Criar Ouro": "384 10/Field/336/false/default/", //Pagina 12
+        "Forge Ouro": "384 10/Field/336/false/default/", //Pagina 12
         "Trans (Ir)": "336 2/Field/337/false/default/", //Pagina 13
 
         //Dominar o Iridio
-        "Quebrar Iridio": "337 1/Field/386 6/false/default/", //Pagina 14
+        "Break Iridio": "337 1/Field/386 6/false/default/", //Pagina 14
         "DesTrans (Rad)": "910 1/Field/337/false/default/", //Pagina 15
-        "Criar Iridio": "386 10/Field/337/false/default/", //Pagina 16
+        "Forge Iridio": "386 10/Field/337/false/default/", //Pagina 16
         "Trans (Rad)": "337 2/Field/910/false/default/", //Pagina 17
 
-        //Dominar o Radioativo
-        "Quebrar Radioativo": "910 1/Field/909 6/false/default/", //Pagina 18
-        "Criar Radioativo": "909 10/Field/910/false/default/", //Pagina 19
+        //Dominar o Radioactive
+        "Break Radioactive": "910 1/Field/909 6/false/default/", //Pagina 18
+        "Forge Radioactive": "909 10/Field/910/false/default/", //Pagina 19
 
-        "Diamante": "382 99/Field/72/false/default/", //Pagina 20
+        "Diamond": "382 99/Field/72/false/default/", //Pagina 20
         "Pearl": "372 20 393 10 80 5 382 3/Field/797/false/default/",  //Pagina 21
-        "Fragmento Prismatico": "394 1 60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/", //Pagina 22
+        "Prismatic Shard": "394 1 60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/", //Pagina 22
         "Galaxy Soul": "74 1 910 5 72 5/Field/896/false/default/" //Ultima Pagina 23
         }
     }
