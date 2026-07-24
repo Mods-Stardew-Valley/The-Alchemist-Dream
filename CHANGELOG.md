@@ -12,6 +12,14 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/The-Alchemist-Dream
+
+
+### ✨ Novidades
+
+
+- Add GitHub update key to manifest
+
 
 ### 🐛 Correções
 
@@ -21,6 +29,8 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
