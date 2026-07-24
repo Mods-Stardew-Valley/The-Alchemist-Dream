@@ -3,16 +3,64 @@
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
-## Unreleased
+## v0.1.1 - 2026-07-24
 
+
+
+### Outras alterações
+
+
+- Clean up manifest and reorganize changelog
+
+Remove test comments from manifest.json and reorganize the README changelog by moving the 'Unreleased' section header to appear before the versioned releases.
+
+
+### ✨ Novidades
+
+
+- Added update key.
+
+- Add Pearl and Galaxy Soul recipes
+
+
+### 🏗 Build
+
+
+- Bump version to 0.1.1
+
+
+### 🐛 Correções
+
+
+- Add ingredient to Fragmento Prismatico recipe
 
 
 ### 📚 Documentação
 
 
+- Update README with v0.1.1 and v0.1.2 changelog
+
+- Add community engagement and support sections
+
+- Add Pearl and Galaxy Soul recipes, fix naming
+
+- atualiza CHANGELOG.md [skip ci]
+
 - Reorganize README and add development roadmap
 
 - atualiza CHANGELOG.md [skip ci]
+
+
+### 🔧 Manutenção
+
+
+- Translate crafting recipe names to English
+
+
+### 🧪 Testes
+
+
+- comentarios ao fim do manifest
 
 
 ## v0.1.0 - 2026-07-22
