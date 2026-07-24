@@ -47,7 +47,9 @@ And perhaps, the Wizard gives you a gift on par with the Philosopher's Stone.
 - Break Radioactive
 - Forge Radioactive
 - Coal to Diamond
-- Prismatic - Especial rewards for completing the Grimoire
+- Pearl
+- Prismatic Shard
+- Galaxy Soul - Especial rewards for completing the Grimoire
 [/spoiler]
 
 See the images for more details.
@@ -93,9 +95,9 @@ Download at your own risk, most of them will be CHEATING!
    "DesTrans (Au)": "336 1/Field/335/false/default/",
    "Forge Iron": "380 10/Field/335/false/default/",
    "Trans (Au)": "335 2/Field/336/false/default/",
-   "Break Ouro": "336 1/Field/384 6/false/default/",
+   "Break Gold": "336 1/Field/384 6/false/default/",
    "DesTrans (Ir)": "337 1/Field/336/false/default/",
-   "Forge Ouro": "384 10/Field/336/false/default/",
+   "Forge Gold": "384 10/Field/336/false/default/",
    "Trans (Ir)": "336 2/Field/337/false/default/",
    "Break Iridium": "337 1/Field/386 6/false/default/",
    "DesTrans (Rad)": "910 1/Field/337/false/default/",
@@ -103,8 +105,10 @@ Download at your own risk, most of them will be CHEATING!
    "Trans (Rad)": "337 2/Field/910/false/default/",
    "Break Radioactive": "910 1/Field/909 6/false/default/",
    "Forge Radioactive": "909 10/Field/910/false/default/",
-   "Coal to Diamante": "382 99/Field/72/false/default/",   
-   "Prismatic": "60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/"
+   "Coal to Diamond": "382 99/Field/72/false/default/",
+   "Pearl": "372 20 393 10 80 5 382 3/Field/797/false/default/",   
+   "Prismatic": "394 1 60 1 62 1 64 1 66 1 68 1 70 1 72 1/Field/74/false/default/",
+   "Galaxy Soul": "74 1 910 5 72 5/Field/896/false/default/"
    }
 
 # Changelog
@@ -112,6 +116,9 @@ Download at your own risk, most of them will be CHEATING!
 - v0.1.0
     feat: todas as receitas abertas para teste
 
+- v0.1.1
+    feat: adicionados receitas para Pearl e Galaxy Soul
+    fix: modificada receita do fragmento prismatico
 
 # Roadmap
 
